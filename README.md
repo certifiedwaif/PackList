@@ -1,2 +1,4 @@
-# PackList
-Working through the Dart in Action book, Chapter 3
+An absolute bare-bones web app.
+
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
